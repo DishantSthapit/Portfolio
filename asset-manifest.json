@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7e01163b.chunk.css",
-    "main.js": "/portfolio/static/js/main.792bc474.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.792bc474.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.a868a17d.chunk.css",
+    "main.js": "/portfolio/static/js/main.d773eee2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d773eee2.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
-    "static/js/2.272674fc.chunk.js": "/portfolio/static/js/2.272674fc.chunk.js",
-    "static/js/2.272674fc.chunk.js.map": "/portfolio/static/js/2.272674fc.chunk.js.map",
+    "static/js/2.93ac9d34.chunk.js": "/portfolio/static/js/2.93ac9d34.chunk.js",
+    "static/js/2.93ac9d34.chunk.js.map": "/portfolio/static/js/2.93ac9d34.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.66ba08543634cb111bd8d52a0afc0003.js": "/portfolio/precache-manifest.66ba08543634cb111bd8d52a0afc0003.js",
+    "precache-manifest.8c1f19e13c85944c94764c2b2f1748f3.js": "/portfolio/precache-manifest.8c1f19e13c85944c94764c2b2f1748f3.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.7e01163b.chunk.css.map": "/portfolio/static/css/main.7e01163b.chunk.css.map",
+    "static/css/main.a868a17d.chunk.css.map": "/portfolio/static/css/main.a868a17d.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/background.eb946522.jpg",
     "static/media/banner.jpg": "/portfolio/static/media/banner.1ad9058a.jpg",
+    "static/media/communication.png": "/portfolio/static/media/communication.2f22d67d.png",
     "static/media/css.png": "/portfolio/static/media/css.50349f7c.png",
+    "static/media/detail.png": "/portfolio/static/media/detail.c9de45b6.png",
     "static/media/dishant.png": "/portfolio/static/media/dishant.04d1afe7.png",
+    "static/media/hardwork.png": "/portfolio/static/media/hardwork.0471f287.png",
     "static/media/react.png": "/portfolio/static/media/react.47ce6e77.png",
+    "static/media/timemanagement.png": "/portfolio/static/media/timemanagement.dfd889be.png",
     "static/media/wsu.jpg": "/portfolio/static/media/wsu.fa9b6c61.jpg"
   }
 }
