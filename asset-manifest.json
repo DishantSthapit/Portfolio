@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3bb69b93.chunk.css",
-    "main.js": "/portfolio/static/js/main.c0771382.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c0771382.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.8d0036f2.chunk.css",
+    "main.js": "/portfolio/static/js/main.8f5582f4.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8f5582f4.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
-    "static/js/2.5a440803.chunk.js": "/portfolio/static/js/2.5a440803.chunk.js",
-    "static/js/2.5a440803.chunk.js.map": "/portfolio/static/js/2.5a440803.chunk.js.map",
+    "static/js/2.bcca89e1.chunk.js": "/portfolio/static/js/2.bcca89e1.chunk.js",
+    "static/js/2.bcca89e1.chunk.js.map": "/portfolio/static/js/2.bcca89e1.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.19916d3ad3ba8eb2db77e34d6b51336d.js": "/portfolio/precache-manifest.19916d3ad3ba8eb2db77e34d6b51336d.js",
+    "precache-manifest.b0393da3007d9df09b2af6de2a5c129b.js": "/portfolio/precache-manifest.b0393da3007d9df09b2af6de2a5c129b.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.3bb69b93.chunk.css.map": "/portfolio/static/css/main.3bb69b93.chunk.css.map",
+    "static/css/main.8d0036f2.chunk.css.map": "/portfolio/static/css/main.8d0036f2.chunk.css.map",
     "static/media/Dishant-Resume.pdf": "/portfolio/static/media/Dishant-Resume.600db50c.pdf",
+    "static/media/Performance-Education-Logo.png": "/portfolio/static/media/Performance-Education-Logo.10fbba74.png",
     "static/media/App.css": "/portfolio/static/media/resume-background.f6f3aff1.jpg",
     "static/media/index.css": "/portfolio/static/media/banner2.a3971069.jpg",
     "static/media/communication.png": "/portfolio/static/media/communication.2f22d67d.png",
@@ -22,8 +23,10 @@
     "static/media/react.png": "/portfolio/static/media/react.47ce6e77.png",
     "static/media/responsive.png": "/portfolio/static/media/responsive.0422b0f6.png",
     "static/media/seo.png": "/portfolio/static/media/seo.57674789.png",
+    "static/media/tafe.jpg": "/portfolio/static/media/tafe.9d6b6483.jpg",
     "static/media/testing.png": "/portfolio/static/media/testing.8eb9eeb7.png",
     "static/media/timemanagement.png": "/portfolio/static/media/timemanagement.dfd889be.png",
-    "static/media/webdesign.png": "/portfolio/static/media/webdesign.1bba3da1.png"
+    "static/media/webdesign.png": "/portfolio/static/media/webdesign.1bba3da1.png",
+    "static/media/western-sydney.jpg": "/portfolio/static/media/western-sydney.980dd53b.jpg"
   }
 }
