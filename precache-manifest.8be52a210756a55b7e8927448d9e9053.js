@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9255e13238a2987278106a2992f00199",
+    "revision": "5fcf0b4190083c25b10b8c6cb5f9cfc5",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "b8f62bc6568483fc9226",
-    "url": "/portfolio/static/css/main.a69f1327.chunk.css"
+    "revision": "12769d8bb782459d9825",
+    "url": "/portfolio/static/css/main.7efc6e9b.chunk.css"
   },
   {
     "revision": "79342a083f06f043b40b",
     "url": "/portfolio/static/js/2.5a440803.chunk.js"
   },
   {
-    "revision": "b8f62bc6568483fc9226",
-    "url": "/portfolio/static/js/main.7f112eda.chunk.js"
+    "revision": "12769d8bb782459d9825",
+    "url": "/portfolio/static/js/main.ff72a5df.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Dishant-Resume.600db50c.pdf"
   },
   {
-    "revision": "0b2499838ae64a31dd41d40f10079124",
-    "url": "/portfolio/static/media/background-4.0b249983.jpg"
+    "revision": "066621a6e2ec552e8f682b21c311550e",
+    "url": "/portfolio/static/media/background-4.066621a6.jpeg"
   },
   {
     "revision": "a397106906ca00bd820b0b684526e2a0",
