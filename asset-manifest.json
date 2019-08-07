@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3be1a551.chunk.css",
+    "main.css": "/portfolio/static/css/main.774387ac.chunk.css",
     "main.js": "/portfolio/static/js/main.0e5fe537.chunk.js",
     "main.js.map": "/portfolio/static/js/main.0e5fe537.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
@@ -8,9 +8,9 @@
     "static/js/2.2ea2ed94.chunk.js": "/portfolio/static/js/2.2ea2ed94.chunk.js",
     "static/js/2.2ea2ed94.chunk.js.map": "/portfolio/static/js/2.2ea2ed94.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.6c766d6641050483df0a506270e48b69.js": "/portfolio/precache-manifest.6c766d6641050483df0a506270e48b69.js",
+    "precache-manifest.63fc37823fb9bb8fc285213324a7d2d9.js": "/portfolio/precache-manifest.63fc37823fb9bb8fc285213324a7d2d9.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.3be1a551.chunk.css.map": "/portfolio/static/css/main.3be1a551.chunk.css.map",
+    "static/css/main.774387ac.chunk.css.map": "/portfolio/static/css/main.774387ac.chunk.css.map",
     "static/media/Dishant-Resume.pdf": "/portfolio/static/media/Dishant-Resume.600db50c.pdf",
     "static/media/Performance-Education-Logo.png": "/portfolio/static/media/Performance-Education-Logo.32317883.png",
     "static/media/App.css": "/portfolio/static/media/resume-background.f6f3aff1.jpg",
