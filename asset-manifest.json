@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e9b93a20.chunk.css",
-    "main.js": "/portfolio/static/js/main.ef38560c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ef38560c.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.235b88a2.chunk.css",
+    "main.js": "/portfolio/static/js/main.d2967151.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d2967151.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
     "static/js/2.8545af0d.chunk.js": "/portfolio/static/js/2.8545af0d.chunk.js",
     "static/js/2.8545af0d.chunk.js.map": "/portfolio/static/js/2.8545af0d.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.f5def03a5ecc7fcdf284fd0be04193cf.js": "/portfolio/precache-manifest.f5def03a5ecc7fcdf284fd0be04193cf.js",
+    "precache-manifest.102f8ed2df9f2470d49994ab8014186b.js": "/portfolio/precache-manifest.102f8ed2df9f2470d49994ab8014186b.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.e9b93a20.chunk.css.map": "/portfolio/static/css/main.e9b93a20.chunk.css.map",
+    "static/css/main.235b88a2.chunk.css.map": "/portfolio/static/css/main.235b88a2.chunk.css.map",
     "static/media/Dishant-Resume.pdf": "/portfolio/static/media/Dishant-Resume.600db50c.pdf",
-    "static/media/Performance-Education-Logo.png": "/portfolio/static/media/Performance-Education-Logo.32317883.png",
+    "static/media/Performance-Education-Logo.png": "/portfolio/static/media/Performance-Education-Logo.c454f681.png",
     "static/media/App.css": "/portfolio/static/media/resume-background.f6f3aff1.jpg",
     "static/media/index.css": "/portfolio/static/media/banner2.a3971069.jpg",
     "static/media/communication.png": "/portfolio/static/media/communication.2f22d67d.png",
@@ -29,6 +29,6 @@
     "static/media/testing.png": "/portfolio/static/media/testing.8eb9eeb7.png",
     "static/media/timemanagement.png": "/portfolio/static/media/timemanagement.dfd889be.png",
     "static/media/webdesign.png": "/portfolio/static/media/webdesign.1bba3da1.png",
-    "static/media/western-sydney.jpg": "/portfolio/static/media/western-sydney.9ede409f.jpg"
+    "static/media/western-sydney.jpeg": "/portfolio/static/media/western-sydney.8cb2d789.jpeg"
   }
 }

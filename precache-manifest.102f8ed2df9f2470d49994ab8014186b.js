@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e2392e987dd6fa2a0f2e31ddf491b11",
+    "revision": "c5d92f2266cf572c781297c962dfd020",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "1b8cb995b9efa606fbd4",
-    "url": "/portfolio/static/css/main.e9b93a20.chunk.css"
+    "revision": "4d8b9f47c82914986024",
+    "url": "/portfolio/static/css/main.235b88a2.chunk.css"
   },
   {
     "revision": "e99e4bec2a74e147cf3d",
     "url": "/portfolio/static/js/2.8545af0d.chunk.js"
   },
   {
-    "revision": "1b8cb995b9efa606fbd4",
-    "url": "/portfolio/static/js/main.ef38560c.chunk.js"
+    "revision": "4d8b9f47c82914986024",
+    "url": "/portfolio/static/js/main.d2967151.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Dishant-Resume.600db50c.pdf"
   },
   {
-    "revision": "3231788362ec16b78b46b6ad5d425d57",
-    "url": "/portfolio/static/media/Performance-Education-Logo.32317883.png"
+    "revision": "c454f6817ed18f8b29c5081b36784869",
+    "url": "/portfolio/static/media/Performance-Education-Logo.c454f681.png"
   },
   {
     "revision": "066621a6e2ec552e8f682b21c311550e",
@@ -100,7 +100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/webdesign.1bba3da1.png"
   },
   {
-    "revision": "9ede409f5a1becc0a7b8cd6ea57b6fb9",
-    "url": "/portfolio/static/media/western-sydney.9ede409f.jpg"
+    "revision": "8cb2d789f514b2ea061db4f45d6897c9",
+    "url": "/portfolio/static/media/western-sydney.8cb2d789.jpeg"
   }
 ]);
