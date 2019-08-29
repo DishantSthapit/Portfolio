@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71554972a057e913e58eaf6c1cf9ca03",
+    "revision": "ea2f51f161c21164d25596599c195425",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "c97fb804bd794900ac4f",
-    "url": "/portfolio/static/css/main.8d76d898.chunk.css"
+    "revision": "753f22bcb222a4b10dd8",
+    "url": "/portfolio/static/css/main.72fa35b1.chunk.css"
   },
   {
     "revision": "a8c05891923deaa91368",
     "url": "/portfolio/static/js/2.9fa06a5c.chunk.js"
   },
   {
-    "revision": "c97fb804bd794900ac4f",
+    "revision": "753f22bcb222a4b10dd8",
     "url": "/portfolio/static/js/main.aa2d04cf.chunk.js"
   },
   {
@@ -28,12 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Performance-Education-Logo.c454f681.png"
   },
   {
-    "revision": "066621a6e2ec552e8f682b21c311550e",
-    "url": "/portfolio/static/media/background-4.066621a6.jpeg"
-  },
-  {
-    "revision": "c341040f6b6cb508e759df0f345d0f71",
-    "url": "/portfolio/static/media/background-5.c341040f.jpeg"
+    "revision": "3ba93aa8c334418d2d1e9803fd5d43c6",
+    "url": "/portfolio/static/media/background-5.3ba93aa8.jpg"
   },
   {
     "revision": "a397106906ca00bd820b0b684526e2a0",
