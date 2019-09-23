@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
+.grow:hover{
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+}
+
+
+.text-wrapper {
+    text-align: center;
+
+}
+
+.section-heading {
+    text-align: center;
+    padding: 36px 0 5px 0;
+    font-family: 'Acme', sans-serif;
+    font-size: 50px;
+    color: #000;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin: 0;
+}
+
+.section-heading::after {
+    content: "";
+    display: block;
+    height: 1px;
+    border-top: 1px solid #343a40;
+    margin: 20px auto 37px auto;
+    padding: 0;
+    max-width: 150px;
+}
+
+.hr-line { 
+    border: none;
+    height: 20px;
+    width: 70%;
+    height: 70px;
+    margin-top: 0;
+    box-shadow: 0 20px 20px -20px #333;
+    margin: -50px auto 10px; 
+}
+
+
+
+.about-item {
+    max-width: 640px;
+    margin: auto;
+    font-size: 16px;
+    font-family: monospace;
+    font-weight: 600;
+    padding-top: 20px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .about-item {
+        max-width: 300px;
+        margin: auto;
+        font-size: 12px;
+    }
+
+    .section-heading  {
+        font-size: 35px;
+    }
+}
+
+.am-image{
+    border-radius: 50%;
+    padding-bottom: 10px;
+}

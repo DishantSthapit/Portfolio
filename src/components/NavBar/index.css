@@ -1,0 +1,38 @@
+
+.nav {
+    color: rgba(255,255,255,.5)
+
+}
+
+.nav:hover {
+    color:rgba(255,255,255,.75);;
+    text-decoration: none;
+}
+
+.nav:focus {
+    color:rgba(255,255,255,.75);;
+
+}
+
+.nav-link {
+    font-family: 'Merriweather', serif;
+    font-size: 15px;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    text-transform: uppercase;
+}
+
+@media (min-width: 768px) {
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: 1.5rem;
+        padding-left: 1.5rem;
+    }
+}
+
+.d-inline-block {
+margin: 0 5px;
+}
+
+.nav-bar {
+    padding: 1rem 1rem;
+}

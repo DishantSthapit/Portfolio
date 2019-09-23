@@ -1,0 +1,359 @@
+.banner-image {
+    display: block;
+    max-width: 100%;
+    height: 50%;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.banner-wrapper {
+    background-image: url("../../img/banner2.jpg");
+    height: 1000px;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.banner-name {
+    font-family: 'Acme', sans-serif;
+    font-size: 90px;
+    padding-top: 40px;
+    text-align: center;
+    color:#d5d0d0;
+}
+
+h1.intro-name {
+  font-size: 60px;
+}
+
+h1.intro-title {
+  font-size: 40px;
+}
+
+#js-container {
+    width: 70vw;
+    margin: 200px auto 70px auto;
+}
+
+.short-intro {
+  font-size: 20px;
+  color: #e0e2e4;
+  width: 50%;
+  margin: 150px auto 0 auto;
+}
+
+.contact-wrapper {
+  display: flex;
+  max-width: 50%;
+  margin: 100px auto 0px auto;
+}
+
+.contact-icon-wrapper {
+  display: flex;
+  width: 50%;
+}
+
+.email-icon:hover, .phone-icon:hover {
+  background-color: #dc0909;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: white;
+  letter-spacing: 0.8em;
+}
+
+.email-icon, .phone-icon  {
+    font-size: 12px;
+    color: white;
+    padding: 14px 100px;
+    margin: 1em auto;
+    background-color: #da3737;
+    border: none;
+    border-radius: 19px;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    transition: all 0.2s cubic-bezier(.4,0,.2,1);
+ 
+}
+
+@media (max-width: 768px) {
+  h1.intro-name {
+    font-size: 30px;
+  }
+  
+  h1.intro-title {
+    font-size: 15px;
+  }
+  
+  #js-container {
+      width: 70vw;
+      margin: 100px auto 30px auto;
+  }
+}
+  
+
+@media only screen and (max-width: 2400px) and (min-width: 768px) and (orientation: portrait) {
+  .banner-wrapper {
+    height: 1400px;
+  }
+
+  .short-intro {
+    width: 70%;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .contact-wrapper {
+    max-width: 70%;
+    margin: 80px auto 0px auto;
+  }
+
+  .email-icon, .phone-icon {
+    font-size: 12px;
+    padding: 10px 65px;
+  }
+}
+
+
+@media only screen and (max-width: 768px) and (orientation: landscape) {
+  .contact-wrapper {
+    max-width: 80%;
+    margin: 80px auto 0px auto;
+  }
+
+  .email-icon, .phone-icon {
+    font-size: 10px;
+    padding: 10px 55px;
+  }
+}
+
+@media only screen and (max-width: 500px) and (orientation: portrait) {
+  .contact-wrapper {
+    max-width: 80%;
+    margin: 50px auto 0px auto;
+  }
+
+  .email-icon, .phone-icon {
+    font-size: 10px;
+    padding: 10px 30px;
+  }
+}
+
+@media only screen and (max-width: 415px) and (orientation: portrait) {
+
+  h1.intro-name {
+    font-size: 20px;
+  }
+  
+  h1.intro-title {
+    font-size: 15px;
+  }
+
+  .banner-wrapper {
+    height: 800px;
+  }
+
+  .short-intro {
+    width: 80%;
+    font-size: 12px;
+    margin: 100px auto 0 auto;
+  }
+
+  #js-container {
+    margin: 150px auto 30px auto;
+  }
+}
+
+
+  h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 5em;
+    letter-spacing: 8px;
+    font-family: 'Press Start 2P';
+    font-weight: 400;
+    /*Create overlap*/
+    
+    margin: 0;
+    line-height: 0;
+    /*Animation*/
+    
+    animation: glitch1 2.5s infinite;
+  }
+  
+  h1:nth-child(2) {
+    color: #67f3da;
+    animation: glitch2 2.5s infinite;
+  }
+  
+  h1:nth-child(3) {
+    color: #f16f6f;
+    animation: glitch3 2.5s infinite;
+  }
+  /*Keyframes*/
+  
+  @keyframes glitch1 {
+    0% {
+      transform: none;
+      opacity: 1;
+    }
+    7% {
+      transform: skew(-0.5deg, -0.9deg);
+      opacity: 0.75;
+    }
+    10% {
+      transform: none;
+      opacity: 1;
+    }
+    27% {
+      transform: none;
+      opacity: 1;
+    }
+    30% {
+      transform: skew(0.8deg, -0.1deg);
+      opacity: 0.75;
+    }
+    35% {
+      transform: none;
+      opacity: 1;
+    }
+    52% {
+      transform: none;
+      opacity: 1;
+    }
+    55% {
+      transform: skew(-1deg, 0.2deg);
+      opacity: 0.75;
+    }
+    50% {
+      transform: none;
+      opacity: 1;
+    }
+    72% {
+      transform: none;
+      opacity: 1;
+    }
+    75% {
+      transform: skew(0.4deg, 1deg);
+      opacity: 0.75;
+    }
+    80% {
+      transform: none;
+      opacity: 1;
+    }
+    100% {
+      transform: none;
+      opacity: 1;
+    }
+  }
+  
+  @keyframes glitch2 {
+    0% {
+      transform: none;
+      opacity: 0.25;
+    }
+    7% {
+      transform: translate(-2px, -3px);
+      opacity: 0.5;
+    }
+    10% {
+      transform: none;
+      opacity: 0.25;
+    }
+    27% {
+      transform: none;
+      opacity: 0.25;
+    }
+    30% {
+      transform: translate(-5px, -2px);
+      opacity: 0.5;
+    }
+    35% {
+      transform: none;
+      opacity: 0.25;
+    }
+    52% {
+      transform: none;
+      opacity: 0.25;
+    }
+    55% {
+      transform: translate(-5px, -1px);
+      opacity: 0.5;
+    }
+    50% {
+      transform: none;
+      opacity: 0.25;
+    }
+    72% {
+      transform: none;
+      opacity: 0.25;
+    }
+    75% {
+      transform: translate(-2px, -6px);
+      opacity: 0.5;
+    }
+    80% {
+      transform: none;
+      opacity: 0.25;
+    }
+    100% {
+      transform: none;
+      opacity: 0.25;
+    }
+  }
+  
+  @keyframes glitch3 {
+    0% {
+      transform: none;
+      opacity: 0.25;
+    }
+    7% {
+      transform: translate(2px, 3px);
+      opacity: 0.5;
+    }
+    10% {
+      transform: none;
+      opacity: 0.25;
+    }
+    27% {
+      transform: none;
+      opacity: 0.25;
+    }
+    30% {
+      transform: translate(5px, 2px);
+      opacity: 0.5;
+    }
+    35% {
+      transform: none;
+      opacity: 0.25;
+    }
+    52% {
+      transform: none;
+      opacity: 0.25;
+    }
+    55% {
+      transform: translate(5px, 1px);
+      opacity: 0.5;
+    }
+    50% {
+      transform: none;
+      opacity: 0.25;
+    }
+    72% {
+      transform: none;
+      opacity: 0.25;
+    }
+    75% {
+      transform: translate(2px, 6px);
+      opacity: 0.5;
+    }
+    80% {
+      transform: none;
+      opacity: 0.25;
+    }
+    100% {
+      transform: none;
+      opacity: 0.25;
+    }
+  }

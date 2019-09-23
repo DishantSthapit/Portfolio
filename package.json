@@ -1,17 +1,44 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+  "homepage": "http://DishantSthapit.github.io/portfolio",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gh-pages": "^2.0.1",
+    "mdbreact": "^4.17.0",
+    "radium": "^0.25.2",
     "react": "^16.8.6",
+    "react-addons-transition-group": "^15.6.2",
+    "react-bootstrap": "^1.0.0-beta.9",
+    "react-card-flip": "^0.8.1",
+    "react-coverflow": "^0.2.20",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-facebook": "^8.0.4",
+    "react-flipcard-2": "^0.3.2",
+    "react-lazy-load": "^3.0.13",
+    "react-lazyload": "^2.6.2",
+    "react-messenger-customer-chat": "^0.7.2",
+    "react-messenger-plugin": "^2.1.0",
+    "react-minimal-pie-chart": "^4.2.0",
+    "react-pdf": "^4.1.0",
+    "react-responsive-carousel": "^3.1.50",
+    "react-responsive-navbar": "~1.0.11",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "3.0.1",
+    "react-spring-3d-carousel": "^1.1.4",
+    "react-transition-group": "^4.2.1",
+    "reactstrap": "^8.0.0",
+    "uuid": "^3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

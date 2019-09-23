@@ -1,0 +1,61 @@
+
+.alt-nav-role, 
+.alt-nav-name {
+    font-family: 'Crimson Text', serif;
+}   
+
+.alt-nav-name {
+    font-size: 25px;
+   } 
+
+.alt-nav-role {
+    font-size: 18px;
+}
+
+.alt-nav-wrapper { 
+    display: flex;
+    background-color: aliceblue;
+
+}
+.alt-nav-details {
+    width: 15%;
+    margin-left: auto;
+}
+
+.alt-nav-icon-wrapper {
+    width: 85%;
+}
+
+.alt-nav-icon-wrapper{
+    position: absolute;
+    right: 0;
+    display: flex;
+    padding: 12px;
+    padding-left: 16px;
+    width: 15%;
+}
+
+.alt-nav-item {
+    width: 25%;
+}
+
+.alt-nav-item-icon {
+    width: 100%;
+}
+
+@media only screen and (max-width: 1024px) {
+    .alt-nav-icon-wrapper{
+        width: 25%;
+    }
+    
+}
+
+@media only screen and (max-width: 415px) {
+    .alt-nav-icon-wrapper{
+        width: 40%;
+    }
+    .alt-nav-item-icon {
+        width: 75%;
+    }
+    
+}

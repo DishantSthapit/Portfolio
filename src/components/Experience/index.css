@@ -1,0 +1,33 @@
+.experience-outer-wrapper {
+    margin: 0 auto;
+    width: 80%;
+    font-family: 'Acme', sans-serif;
+}
+
+.experience-iw-image {
+    max-width: 100%;
+}
+
+.experience-content-wrapper {
+   text-align: center;
+   padding: 20px;
+}
+
+.experience-cw-title{
+    padding: 10px 0 0 0 ;
+    font-size: 18px;
+}
+
+.experience-cw-duration {
+    font-size: 14px;
+    padding: 0 0 10px 0;
+}
+
+.experience-content-wrapper button{
+    border: none;
+    border-radius: 40px;
+    padding: 7px 50px;
+    background: linear-gradient(to right, #e51c4b 60%, #e5821c 100%);
+    color: white;
+    font-size: 16px;
+}

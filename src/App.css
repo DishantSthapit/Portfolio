@@ -1,33 +1,79 @@
-.App {
-  text-align: center;
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.container {
+    max-width: 1200px;
+    margin: 0 auto; 
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.nav-about-wrapper {
+    background: url("../src/img/background-5.jpg");
+    background-size: cover;
 }
 
-.App-link {
-  color: #61dafb;
+
+/* PDF Viewer stylings starts here */
+
+.pdf-view {
+    background-image: url("./img/resume-background.jpg");
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    padding: 20px 20px 300px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Acme', sans-serif;
+    font-size: 15px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+.react-pdf__Page__textContent {
+    display: none;
+}
+
+button.button-icon {
+    margin: 5px;
+}
+
+.pdf-icon-view {
+    display: flex;
+}
+
+.pdf-icon-item-icon {
+    width: 80%;
+}
+
+.react-pdf__Page {
+    max-height: 100%;
+}
+
+
+.react-pdf__Page__canvas {
+    padding: 10px 0 0 0;
+    margin: 0 auto;
+    
+}
+
+  /* PDF Viewer stylings ends here */
+  
+@media only screen and (max-width: 1280px) {
+    .nav-about-wrapper {
+        background: url("../src/img/background-5.jpg");
+        background-size: cover;
+    }  
+}
+
+@media only screen and (max-width: 415px) {
+    .react-pdf__Page__canvas {
+        width: 397px !important;
+        height: 562px !important;
+    }
+
+    .nav-about-wrapper {
+        background: url("../src/img/background-5.jpg");
+        background-size: cover;
+    }
+    
 }

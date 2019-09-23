@@ -1,0 +1,47 @@
+.services-content-wrapper {
+    font-family: 'Acme', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.service-item-wrapper {
+    width: 50%;
+    text-align: center;
+    padding: 70px 50px;
+}
+
+.service-description-wrapper {
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+.service-description-title {
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+.service-image-wrapper {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.service-image {
+    max-width: 100%;
+}
+
+@media only screen and (max-width: 415px) and (orientation: portrait) {
+    .services-content-wrapper {
+        display: block;
+        flex-wrap: wrap;
+        max-width: 80%;
+        margin: 0 auto;
+    }
+
+    .service-item-wrapper {
+        width: 100%;
+        text-align: center;
+        padding: 20px 20px;
+    }
+}

@@ -1,0 +1,22 @@
+.image-wrapper {
+    flex: 1;
+    text-align: center;
+}
+
+.about-image-wrapper {
+    display: flex;
+    max-width: 80%;
+    margin: 10px auto 0 auto;
+    text-align: center;
+    align-content: center;
+}
+
+.iw-image {
+    width: 70%;
+}
+
+.image-text{
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    padding: 5px 0 ;
+}
