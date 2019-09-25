@@ -31,3 +31,41 @@
     color: white;
     font-size: 16px;
 }
+
+
+@media only screen and (max-width: 768px) {
+
+    .experience-content-wrapper button{
+        padding: 7px 25px;
+    }
+
+    .experience-content-wrapper h2 {
+        font-size: 18px
+    }
+     .experience-cw-title{
+        font-size: 14px;
+    }
+    
+    .experience-cw-duration {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 415px) {
+
+    .col {
+        flex-basis: unset;
+    }
+
+    .experience-outer-wrapper{
+        padding: 0 0 20px 0;
+    }
+
+    .experience-image-wrapper {
+        text-align: center;
+    }
+
+    .experience-iw-image {
+        max-width: 70%;
+    }
+}
